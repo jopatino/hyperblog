@@ -6,3 +6,4 @@ Un blog increíble para el curso profesional de Git y GitHub
 * Comeré Detoditos
 * Con Cocacola
 * Creado por el increíble Team
+* Incluye ejemplos en Windows, Linux y Mac
