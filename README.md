@@ -7,3 +7,4 @@ Un blog increíble para el curso profesional de Git y GitHub
 * Con Cocacola
 * Creado por el increíble Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
